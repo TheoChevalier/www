@@ -88,8 +88,8 @@ Tabzilla.jQueryCDNSrc =
     '//www.mozilla.org/media/js/libs/jquery-1.7.1.min.js';
 
 Tabzilla.LINK_TITLE = {
-    CLOSED: 'Mozilla links',
-    OPENED: 'Close (Esc)'
+    CLOSED: 'Liens Mozilla Francophone',
+    OPENED: 'Fermer (Échap)'
 }
 
 /**
